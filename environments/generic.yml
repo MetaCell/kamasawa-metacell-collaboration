@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - opencv
+  - scikit-image
+  - scikit-learn
+  - pandas
+  - plotly
+  - xarray
+  - seaborn
+  - tifffile
